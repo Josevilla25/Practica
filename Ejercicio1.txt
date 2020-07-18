@@ -1,0 +1,19 @@
+<html>
+<HEAD>
+<TITLE>Datos del Estudiante</TITLE>
+</HEAD>
+<BODY text="Red">
+Nombre:<br>
+<input type="text" name="nombre" value="Jose"><br>
+Apellido:<br>
+<input type="text" name="apellido" value="Ortiz"><br>
+Carnet:<br>
+<input type="text" name="carnet" value="4890-15-20431"><br>
+Semestre:<br> 
+<input type="text" name="semestre" value="2"><br>
+Direccion:<br>
+<input type="text" name="direccion" value="Colonia El Naranjo"><br>
+Telefono:<br>
+<input type="text" name="telefono" value="5824 4926"><br>
+</BODY>
+</html>
